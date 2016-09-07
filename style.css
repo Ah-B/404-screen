@@ -14,7 +14,7 @@ body {
 .eyeball {
     position: relative;
     z-index: 1;
-    background: #F1F0CC;
+    background: #fff;
 }
 .left {
     width: 50px;
@@ -35,5 +35,5 @@ body {
     width: 20px;
     height: 20px;
     border-radius: 10px;
-    background: #000;
+    background: #7F1941;
 }
