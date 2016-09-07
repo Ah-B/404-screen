@@ -1,0 +1,39 @@
+body {
+    background-color: #59C9A5;
+}
+.monster {
+    position: absolute;
+    left: 380px;
+    top: 10%;
+}
+.eyes {
+    position: absolute;
+    left: 230px;
+    top: 145px;
+}
+.eyeball {
+    position: relative;
+    z-index: 1;
+    background: #F1F0CC;
+}
+.left {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    left: 8px;
+    top: 0px;
+    float: left;
+}
+.right {
+    width: 46px;
+    height: 46px;
+    border-radius: 23px;
+    top: 2px;
+    left: 59px;
+}
+.iris {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background: #000;
+}
